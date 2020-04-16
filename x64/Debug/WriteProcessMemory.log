@@ -1,0 +1,3 @@
+﻿  WriteProcessMemory.cpp
+Z:\Utilities\Visual Studio - Projects\WriteProcessMemory\WriteProcessMemory.cpp(37,69): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+  WriteProcessMemory.vcxproj -> Z:\Utilities\Visual Studio - Projects\WriteProcessMemory\x64\Debug\WriteProcessMemory.exe

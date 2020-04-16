@@ -1,0 +1,2 @@
+Z:\Utilities\Visual Studio - Projects\WriteProcessMemory\x64\Debug\WriteProcessMemory.exe
+Z:\Utilities\Visual Studio - Projects\WriteProcessMemory\x64\Debug\WriteProcessMemory.pdb
